@@ -51,7 +51,7 @@ function createMainWindow() {
 
 	let crewlinkVersion: string;
 	if (isDevelopment) {
-		crewlinkVersion = '0.0.0';
+		crewlinkVersion = '1.2.1';
 		window.loadURL(
 			`http://localhost:${process.env.ELECTRON_WEBPACK_WDS_PORT}?version=DEV`
 		);

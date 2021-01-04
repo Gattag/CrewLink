@@ -1895,6 +1895,11 @@
   resolved "https://registry.yarnpkg.com/@types/json5/-/json5-0.0.29.tgz#ee28707ae94e11d2b827bcbe5270bcea7f3e71ee"
   integrity sha1-7ihweulOEdK4J7y+UnC86n8+ce4=
 
+"@types/lodash@^4.14.166":
+  version "4.14.166"
+  resolved "https://registry.yarnpkg.com/@types/lodash/-/lodash-4.14.166.tgz#07e7f2699a149219dbc3c35574f126ec8737688f"
+  integrity sha512-A3YT/c1oTlyvvW/GQqG86EyqWNrT/tisOIh2mW3YCgcx71TNjiTZA3zYZWA5BCmtsOTXjhliy4c4yEkErw6njA==
+
 "@types/minimatch@*":
   version "3.0.3"
   resolved "https://registry.yarnpkg.com/@types/minimatch/-/minimatch-3.0.3.tgz#3dca0e3f33b200fc7d1139c0cd96c1268cadfd9d"
@@ -2148,6 +2153,11 @@
   dependencies:
     "@typescript-eslint/types" "4.9.1"
     eslint-visitor-keys "^2.0.0"
+
+"@tyriar/fibonacci-heap@^2.0.9":
+  version "2.0.9"
+  resolved "https://registry.yarnpkg.com/@tyriar/fibonacci-heap/-/fibonacci-heap-2.0.9.tgz#df3dcbdb1b9182168601f6318366157ee16666e9"
+  integrity sha512-bYuSNomfn4hu2tPiDN+JZtnzCpSpbJ/PNeulmocDy3xN2X5OkJL65zo6rPZp65cPPhLF9vfT/dgE+RtFRCSxOA==
 
 "@webassemblyjs/ast@1.9.0":
   version "1.9.0"
@@ -4074,6 +4084,11 @@ diffie-hellman@^5.0.0:
     miller-rabin "^4.0.0"
     randombytes "^2.0.0"
 
+dijkstra-pathfinder@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/dijkstra-pathfinder/-/dijkstra-pathfinder-1.0.2.tgz#8e17a4815438470fcced675066f98f66040d13c6"
+  integrity sha512-1ubSorfH0y5RWvY2LRRo1OLul0mt0bQfqT/YZUAjHq4cpYpOaZb9lxGfKJ7TNbURQpRH1GQwdrIEeAEFCHIL2A==
+
 dir-glob@^3.0.1:
   version "3.0.1"
   resolved "https://registry.yarnpkg.com/dir-glob/-/dir-glob-3.0.1.tgz#56dbf73d992a4a93ba1584f4534063fd2e41717f"
@@ -5187,6 +5202,11 @@ fast-levenshtein@^2.0.6, fast-levenshtein@~2.0.6:
   version "2.0.6"
   resolved "https://registry.yarnpkg.com/fast-levenshtein/-/fast-levenshtein-2.0.6.tgz#3d8a5c66883a16a30ca8643e851f19baa7797917"
   integrity sha1-PYpcZog6FqMMqGQ+hR8Zuqd5eRc=
+
+fast-xml-parser@^3.17.5:
+  version "3.17.6"
+  resolved "https://registry.yarnpkg.com/fast-xml-parser/-/fast-xml-parser-3.17.6.tgz#4f5df8cf927c3e59a10362abcfb7335c34bc5c5f"
+  integrity sha512-40WHI/5d2MOzf1sD2bSaTXlPn1lueJLAX6j1xH5dSAr6tNeut8B9ktEL6sjAK9yVON4uNj9//axOdBJUuruCzw==
 
 fastq@^1.6.0:
   version "1.9.0"
@@ -10305,6 +10325,11 @@ ts-loader@^6.2.2:
     loader-utils "^1.0.2"
     micromatch "^4.0.0"
     semver "^6.0.0"
+
+ts-priority-queue@^0.1.1:
+  version "0.1.1"
+  resolved "https://registry.yarnpkg.com/ts-priority-queue/-/ts-priority-queue-0.1.1.tgz#557be9c76e4b86c0da3c0a17911543805a899fa6"
+  integrity sha512-jNwbk4ItfTHVopnlQ/Z7UUlbF1TNsdXS2cb1W8kI6lm8UauIjs8CYSOEh1E/yrIEhl+HVFUMp60ma6fKuvBhBQ==
 
 tsconfig-paths@^3.9.0:
   version "3.9.0"
